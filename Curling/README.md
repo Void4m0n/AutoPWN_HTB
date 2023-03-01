@@ -4,7 +4,7 @@
 
 ![](./gif_preview/Curling_autopwn.gif)
 
-## DESCRITION
+## DESCRIPTION
 
 This script will pwn Curling automatically, just spawn the machine, exec the script and wait for the magic to happen.
 
