@@ -22,7 +22,7 @@ python3 Popcorn_Autopwn.py [LHOST]
 ```
 ## PWN SCHEME
 
-- [ ] Ask the user to register, because the app uses capchat.
+- [1] Ask the user to register, because the app uses capchat.
 - [2] Login and upload a valid torrent file (utils/Payload.txt.torrent).
 - [3] Upload a web shell bypassing the file upload measures.
 - [4] Share the Privilege Escalation script with a python server. 
