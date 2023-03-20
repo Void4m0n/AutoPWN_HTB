@@ -12,6 +12,9 @@ This script will pwn Popcorn automatically, just spawn the machine, exec the scr
 
 ### DEBIAN BASED
 ```
+wget https://github.com/Void4m0n/AutoPWN_HTB/raw/main/Popcorn/Popcorn_Autopwn_Repo.zip
+unzip Popcorn_Autopwn_Repo.zip
+cd Popcorn
 chmod +x ./setup.sh
 ./setup.sh
 ```
