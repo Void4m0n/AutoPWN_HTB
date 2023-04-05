@@ -20,6 +20,7 @@ chmod +x ./setup.sh
 ```
 ## USAGE
 
+Rembember to add the following line to the /etc/hosts `10.10.10.215 academy.htb dev-staging-01.academy.htb` 
 ```
 python3 Academy_Autopwn.py
 ```
