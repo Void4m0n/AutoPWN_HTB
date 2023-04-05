@@ -14,7 +14,7 @@ This script will pwn Academy automatically, just spawn the machine, exec the scr
 ```
 wget https://github.com/Void4m0n/AutoPWN_HTB/raw/main/Academy/Academy_Autopwn_Repo.zip
 unzip Academy_Autopwn_Repo.zip
-cd Acadmy
+cd Academy
 chmod +x ./setup.sh
 ./setup.sh
 ```
