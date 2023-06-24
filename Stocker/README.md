@@ -12,7 +12,7 @@ This script will PWN Stocker automatically, just spawn the machine, exec the scr
 
 ### DEBIAN BASED
 ```
-wget https://github.com/Void4m0n/AutoPWN_HTB/raw/main/Stokcer/Stocker_Autopwn_Repo.zip
+wget https://github.com/Void4m0n/AutoPWN_HTB/raw/main/Stocker/Stocker_Autopwn_Repo.zip
 unzip Stocker_Autopwn_Repo.zip
 cd Stocker 
 pip3 install -r ./requirements.txt
